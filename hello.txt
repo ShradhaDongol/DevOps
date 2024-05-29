@@ -1,1 +1,2 @@
 Hello, Gitclear
+Add new feature
